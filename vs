@@ -29,4 +29,4 @@ client.on('message', async (message) => {
   message.channel.send(response);
 });
 
-client.login('MTA5MDc5NTc4NDA0MTE1NjY3OQ.G_rc14.DHuCJQSW0QFs8FE66D-J6hbIG6nEUuLkkln9HM');
+client.login('MTA5MDc5NTc4NDA0MTE1NjY3OQ.GwYJJQ.sQQZJQDUIQr61u8oJffBSbn0Y5Bec2h55zIKkw');
